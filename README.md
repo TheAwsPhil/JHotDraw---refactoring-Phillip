@@ -1,2 +1,2 @@
 # JHotDraw---refactoring-Phillip
-My version of JHotDraw
+The classes I worked on with refactoring
